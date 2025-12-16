@@ -62,7 +62,7 @@
 | Projet | Description | Lien |
 |--------|-------------|------|
 | 🌐 **Portfolio** | Mon portfolio interactif avec jeux jouables | [Live](https://gregory-lefebvre.dev) |
-| 🏘️ **The Village** | App famille — Projet final Le Wagon | [Live](https://the-village.website) |
+| 🏘️ **The Village** | App famille — Projet final Le Wagon | [Live](https://www.the-village.website/) |
 | 🎮 **So_long** | Jeu 2D en C — École 42 | [Repo](https://github.com/greegs0/So_long) |
 | 📊 **Push_swap** | Algorithme de tri visualisé | [Repo](https://github.com/greegs0/push_swap) |
 
