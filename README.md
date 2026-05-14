@@ -22,6 +22,7 @@
 
 ### ⚡ Ce que je fais
 
+- 🔐 MSc cybersécurité Epitech Strasbourg (en recherche d'alternance)
 - 🌐 Création de sites web & applications sur mesure
 - 🤖 Intégration de solutions IA
 - 🚂 Teacher Assistant au Wagon
