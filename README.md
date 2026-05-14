@@ -24,7 +24,7 @@
 
 - 🌐 Création de sites web & applications sur mesure
 - 🤖 Intégration de solutions IA
-- 🔒 Conseil en cybersécurité (audit, RGPD, sensibilisation)
+- 🚂 Teacher Assistant au Wagon
 
 ---
 
